@@ -4,7 +4,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "square",
+	"name": "html-online-viewer",
 	"compatibility_date": "2025-09-04",
 	"assets": {
 		// The path to the directory containing the `index.html` file to be served at `/`
