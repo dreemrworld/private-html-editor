@@ -3,7 +3,8 @@
 I have been vocal about the power of cloudflare workers as a fullstack backend with a thin layer of html, css and js frontend. Proof is in the pudding.  
 
 **📍 Live**
-Link to the live version: https://chatgoat.dreemrworld.workers.dev
+Link to the live version: html-online-viewer.dreemrworld.workers.dev or html.goat.africa
+
 
 
 **💾 Installation**
