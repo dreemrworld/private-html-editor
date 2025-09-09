@@ -2,9 +2,4 @@
 	"files.associations": {
 		"wrangler.json": "jsonc"
 	},
-	"piny.project_settings": {
-		"open-pages": [
-			"pinyfakepage.html"
-		]
-	}
 }
